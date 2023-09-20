@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Isaque!</h1>
-<h3 align="center">Um desenvolvedor front-end apaixonado por tecnologia</h3>
+<h3 align="center">Um desenvolvedor Full Stack apaixonado por tecnologia</h3>
 
 <p align="center"><img align="center" justfy="center" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> </p>
 
