@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaqu33&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Isaque" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaqu33&show_icons=true&theme=dark&layout=compact" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaqu33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Isaque" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaqu33&show_icons=true&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" height="180" />
 </p>
 
 ---
