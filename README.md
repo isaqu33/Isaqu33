@@ -1,40 +1,27 @@
-<div align="center">
-  <h1>Olá, sou o Isaque 👋</h1>
-  <p><strong>Desenvolvedor Full Stack | Especialista em Arquitetura Web e Soluções Escaláveis</strong></p>
-</div>
+# Olá, sou o Isaque 👋
 
----
+**Desenvolvedor Full Stack · Aplicações web e integrações**
 
-## 🚀 Sobre Mim
+Trabalho com interfaces, APIs e manutenção de aplicações web. Minha trajetória reúne projetos demonstrativos, desafios técnicos e participação em equipes de desenvolvimento.
 
-Sou um desenvolvedor Full Stack focado na criação de sistemas de alto desempenho, escaláveis e focados em resultados de negócios. Minha experiência envolve desde a concepção de arquiteturas robustas no backend até a entrega de interfaces fluidas e otimizadas no frontend.
+Utilizo **React, Next.js, TypeScript e Node.js**, com experiência em **Prisma, MongoDB e Docker**. Também desenvolvo com apoio de IA, usando **GPT e Claude** no processo de desenvolvimento.
 
-*   **Foco Atual:** Desenvolvimento de plataformas de alta complexidade, sistemas distribuídos, integrações complexas de APIs e automações inteligentes.
-*   **Filosofia de Código:** Código limpo, componentização inteligente, tipagem estrita e arquiteturas orientadas a desempenho e segurança.
+## Projetos selecionados
 
----
+| Projeto | Contexto | Tecnologias |
+|---|---|---|
+| [Agregador de Links — interface](https://github.com/isaqu33/Agregador_Link_Front) e [API](https://github.com/isaqu33/Agregador_Link_api) | Projeto demonstrativo para organização de links e personalização de perfil | React, TypeScript, NestJS, Prisma e SQLite |
+| [Clima, CEP e formulário](https://github.com/isaqu33/plinchallenge) | Desafio técnico com consultas de APIs e validação de formulário; envio simulado | Next.js, TypeScript e Tailwind CSS |
+| [Seleção de localidades](https://github.com/isaqu33/teste_Iris) | Desafio técnico com seleções dependentes e dados locais | Next.js, TypeScript e Material UI |
 
-## 🛠️ Stack Tecnológica & Ecossistema
+Os repositórios mostram o código e o contexto de cada projeto. As tecnologias utilizadas variam entre eles.
 
-Para entregar soluções de nível corporativo e prontas para produção, domino o seguinte ecossistema:
+## Experiência
 
-### 💻 Frontend & Mobile
-*   **Frameworks:** Next.js (App Router, SSR/SSG), React.js, Tailwind CSS
-*   **Mobile:** React Native, Ionic, Android Nativo
-*   **Gerenciamento de Estado:** Redux Toolkit, Context API
+Minha experiência inclui manutenção e suporte em CMS pela **3P Systems**, desenvolvimento e testes em uma plataforma de radiologia na **RPACS** e atuação Full Stack com foco em front-end na **IRIS DATA TECHNOLOGY**.
 
-### ⚙️ Backend, Infraestrutura & Bancos
-*   **Runtime & Frameworks:** Node.js (Arquitetura Modular, Injeção de Dependência)
-*   **Bancos de Dados & ORM:** Prisma ORM, MongoDB, Firebase
-*   **Ferramentas e DevOps:** Docker (Conteinerização), Git/GitHub (Workflows Avançados, CI/CD)
+Gosto de entender o problema, conectar as partes de uma aplicação e evoluir as soluções com clareza sobre suas decisões e limites.
 
----
+## Contato
 
-## 📊 Diretrizes de Trabalho
-> "Transformo ideias e regras de negócio complexas em sistemas que realmente funcionam, otimizando processos e impulsionando o crescimento digital."
-
----
-
-<div align="center">
-  <sub>Conecte-se comigo para discutir arquitetura de software, desenvolvimento de produtos e engenharia de software de alto nível.</sub>
-</div>
+[LinkedIn](https://www.linkedin.com/in/isaque-ferreira-de-sousa-700902181/) · [E-mail](mailto:isaqueferreiradesousa@gmail.com)
