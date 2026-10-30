@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isaqu33/Isaqu33/main/capalinkedin.jpeg" alt="Isaque Ferreira — Desenvolvimento Full Stack. Web que faz sentido." width="100%" />
+</p>
+
 # Olá, sou o Isaque 👋
 
 **Desenvolvedor Full Stack · Aplicações web e integrações**
